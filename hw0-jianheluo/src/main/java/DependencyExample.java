@@ -10,7 +10,7 @@ public class DependencyExample {
   public static void main(String[] args) {
     
     
-    String s = "I am feeling good";
+    String s = "I'm feeling good!";
     
     TokenizerFactory<Word> factory =
     PTBTokenizerFactory.newTokenizerFactory();
